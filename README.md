@@ -1,6 +1,6 @@
 # Kanban
 
-I have starting developing this web application few years back to learn PHP. Due to numerous reasons, I did not get time to work on it for more than a year. After a long break, I have just started working on this again. 
+I have starting developing this web application few years back to learn PHP and for personal use. Due to numerous reasons, I did not get time to work on it for more than a year. After a long break, I have just started working on this again. 
 
 As you can see, the PHP that I have used on this are very basic right now. I have only used functions, everywhere. And code is not organized. So, this time I am moving everything to use OOP. Basically, I am re-writing everything from scratch.
 
